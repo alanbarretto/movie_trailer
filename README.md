@@ -6,7 +6,8 @@ Posters of the movies are displayed and the movie's trailer will show when you c
 ## Getting Started
 
 Python 2 or higher needs to be installed on your computer for the program to work.  
-Clone the file from github https://github.com/alanbarretto/movie_trailer.git.
+Clone the file from github https://github.com/alanbarretto/movie_trailer.git
+
 Open the entertainment_center.py file with idle and run it.
 
 ## Known Bugs
